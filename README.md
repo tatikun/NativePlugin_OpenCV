@@ -1,2 +1,2 @@
 # NativePlugin_OpenCV
- 
+NativePluginを使用してUnityでウェブカメラを仕様するテストプロジェクトです。 
